@@ -1,13 +1,18 @@
 ### The knowledge you'll need:
 How write in a programming language.
+
 How to copy paste and maybe write a bit of your own code.
+
 How do think.
     
 	
 ### To start off
 Learn what protobuf is.
+
 Google SteamKit
-Learn a programming language? Maybe... Omg you should totally start with C++ (Or CSS/HTML)... Said anyone who hasn't learned how to code yet...
+
+Learn a programming language? Maybe... Omg you should totally start with C++ (Or CSS/HTML)... Said anyone who hasn't learned 
+how to code yet...
 
 ### What you resources you'll need
 The protobufs, [SteamKit helps you](https://github.com/SteamRE/SteamKit/blob/f94c56ce371b2ec76794ed284b80582bae47cea4/Resources/Protobufs/csgo/cstrike15_gcmessages.proto#L657-L701 "Oh shit I just gave u the whole thing...").
