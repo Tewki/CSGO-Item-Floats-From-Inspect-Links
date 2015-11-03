@@ -3,7 +3,7 @@ How write in a programming language.
 
 How to copy paste and maybe write a bit of your own code.
 
-How do think.
+How do think as my favorite Indian always says.
     
 	
 ### To start off
