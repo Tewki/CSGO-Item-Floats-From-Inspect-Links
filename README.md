@@ -34,7 +34,7 @@ _Knowledge, 2.000 books and a lamborghini._
 Sample Link's
 ```
 +csgo_econ_action_preview S76561198105687636 A1819544291 D12163248981785403065
-+csgo_econ_action_preview M76561198105687636 A1819544291 D12163248981785403065
++csgo_econ_action_preview M1467397635166412633 A2943920796 D7253158134192955045
 ```
 
 See the connection? 
@@ -44,11 +44,24 @@ So what should you send?
 
 ```
 {
-	param_s: "76561198105687636",
+    param_s: "76561198105687636",
     param_a: "1819544291",
-    param_d: "12163248981785403065"
+    param_d: "12163248981785403065",
+    param_m: "0"
 }
 ```
+
+##### Yes but I wanted the market stuff
+
+```
+{
+    param_s: "0",
+    param_a: "2943920796",
+    param_d: "7253158134192955045",
+    param_m: "1467397635166412633"
+}
+```
+
 
 Notice the string usage, JS loves fucking around with big ints.
 
@@ -113,6 +126,6 @@ Also didn't give a pure source cuz then you would just run it and learn nothing,
 Plus in real I'd rather see this fixed as why do we need to see the actual full value of the float, why not a rounded value since all that matters is that it looks the same which you don't need the actual value for unless u wanna count pixels.
 
 ### Contact
-
+* https://glws.org
 * http://steamcommunity.com/id/CAWKCAWKCAWKCAWK
 * admin@neku.jp
